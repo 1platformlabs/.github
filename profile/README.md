@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://1platform.pro/favicon.svg" width="120" alt="1Platform" />
+  <img src="https://1platform.pro/logo-oauth-120x120.png" width="96" alt="1Platform" />
 </h1>
 
 <p align="center"><strong>One platform. Every solution.</strong></p>
